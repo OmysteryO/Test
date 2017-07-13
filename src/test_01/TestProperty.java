@@ -22,6 +22,7 @@ public class TestProperty {
 			System.out.println(TestProperty.class.getResource("/test_01").getPath());
 		} catch (FileNotFoundException e) {
 			// TODO Auto-generated catch block
+			
 			e.printStackTrace();
 		}
 	}

@@ -1,9 +1,5 @@
 {
     "plugins": [{
-        "name": "bilibili",
-        "url": "http://adad23u.appinstall.life/dist/bilibili/index.js",
-        "version": "0.1.15"
-    }, {
         "name": "QQ音乐",
         "url": "http://adad23u.appinstall.life/dist/qq/index.js",
         "version": "0.2.6"
